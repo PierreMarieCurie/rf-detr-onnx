@@ -82,3 +82,7 @@ In addition, RF-DETR itself is released under the Apache 2.0 license, and all as
 
 # Acknowledgements
 - Special thanks to the Roboflow team and everyone involved in the development of RF-DETR, particularly for sharing a state-of-the-art model under a permissive free software license.
+
+# TO DO
+- share script to generate onnx file
+- NOTICE for better compliance with Apache license 
