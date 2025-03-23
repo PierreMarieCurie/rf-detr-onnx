@@ -1,6 +1,8 @@
+# This file contains code licensed under the Apache License, Version 2.0.
+# See NOTICE for more details.
+
 import argparse
 import torch
-import supervision as sv
 from rfdetr import RFDETRBase
 
 def export_model(model_name: str):

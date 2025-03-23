@@ -1,3 +1,6 @@
+# This file contains code licensed under the Apache License, Version 2.0.
+# See NOTICE for more details.
+
 import io
 import requests
 import onnxruntime as ort

@@ -48,7 +48,7 @@ You can download the original model from Hugging Face using this link:
 
 First, install the required dependencies using pip:
 ``` bash
-pip install rfdetr torch
+pip install rfdetr
 ```
 Then, export the model:
 
@@ -79,15 +79,9 @@ model.save_detections(image_path, boxes, labels, "saved_image.jpg")
 
 # License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the MIT License. See [license file](LICENSE) for more details.
 
-Some portions of the code incorporate work released under the Apache License 2.0. These sections are clearly marked and include the required license and attribution information; please see the NOTICE file for further details regarding the Apache-licensed components.
-
-In addition, RF-DETR itself is released under the Apache 2.0 license, and all aspects related to the model must comply with those terms.
+However, RF-DETR pretrained weights and some parts of the code are derived from software licensed under the Apache License 2.0. See [notice](NOTICE) for more details.
 
 # Acknowledgements
-- Special thanks to the Roboflow team and everyone involved in the development of RF-DETR, particularly for sharing a state-of-the-art model under a permissive free software license.
-
-# TO DO
-- share script to generate onnx file
-- NOTICE for better compliance with Apache license 
+- Thanks to the Roboflow team and everyone involved in the development of RF-DETR, particularly for sharing a state-of-the-art model under a permissive free software license.

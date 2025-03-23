@@ -1,1 +1,20 @@
-TO DO
+This project is licensed under the MIT License.
+
+However, some parts of the code are derived from third-party software licensed under the Apache License 2.0 and the BSD 3-Clause License. Below are the details:
+
+
+
+
+ under the Apache License 2.0. Please see  http://www.apache.org/licenses/LICENSE-2.0 for more details. Below are the parts under this license:
+
+- RF-DETR class in rf_detr.py (Copyright 2025 Roboflow)
+- RF-DETR pretrained weights (Copyright 2025 Roboflow)
+
+
+
+
+License References:
+
+Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0
+
+BSD 3-Clause License: https://opensource.org/licenses/BSD-3-Clause
