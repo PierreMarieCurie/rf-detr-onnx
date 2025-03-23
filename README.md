@@ -1,5 +1,8 @@
 # RF-DETR with ONNX
 
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/PierreMarieCurie/rf-detr-onnx/blob/main/rf-detr-base.onnx)
+
+
 This repository contains code to load an ONNX model—converted from RF-DETR—and perform inference, including drawing the results on images. It demonstrates how to convert a PyTorch model to ONNX format and run real-time inference with minimal dependencies.
 
 RF-DETR is a transformer-based object detection architecture developed by Roboflow. For more details on the model, please refer to the impressive work by the Roboflow team [here](https://github.com/roboflow/rf-detr/tree/main).
@@ -35,13 +38,13 @@ pip install requirements.txt
 
 # Download the Model
 
-## Directly from Huggin-face
+### Directly from Huggin-face
 
 You can download the original model from Hugging Face using this link:
 
-[Download Model from Hugging Face](https://huggingface.co/PierreMarieCurie/rf-detr-onnx/blob/main/rf-detr-base.onnx)
+[Download Model from Hugging Face](https://huggingface.co/PierreMarieCurie/rf-detr-onnx/resolve/main/rf-detr-base.onnx)
 
-## Generate from the Original Repository
+### Or generate it from rf-detr module
 
 TO DO
 
