@@ -4,6 +4,16 @@ This repository contains code to load an ONNX model—converted from RF-DETR—a
 
 RF-DETR is a transformer-based object detection architecture developed by Roboflow. For more details on the model, please refer to the impressive work by the Roboflow team [here](https://github.com/roboflow/rf-detr/tree/main).
 
+## Official Repo vs ONNX Runtime Inference
+
+On the left: Output from the official RF-DETR repository.  
+On the right: Output using ONNX Runtime for inference.
+
+<p align="center">
+  <img src="illustration/exemple-official-repo.png", alt="Image 1" width="45%">
+  <img src="illustration/exemple-onnx-inference.jpg", alt="Image 2" width="44.4%">
+</p>
+
 ## Requirements
 
 Ensure you have the following dependencies installed:
