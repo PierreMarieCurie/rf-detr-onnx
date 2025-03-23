@@ -46,7 +46,15 @@ You can download the original model from Hugging Face using this link:
 
 ### Or generate it from rf-detr module
 
-TO DO
+First, install the required dependencies using pip:
+``` bash
+pip install rfdetr torch
+```
+Then, export the model:
+
+``` bash
+python export.py --model_name rf-detr-base.onnx
+```
 
 # Inference Script Example
 
