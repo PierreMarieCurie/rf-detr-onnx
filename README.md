@@ -11,7 +11,7 @@ On the right: Output using ONNX Runtime for inference.
 
 <p align="center">
   <img src="illustration/exemple-official-repo.png", alt="Image 1" width="45%">
-  <img src="illustration/exemple-onnx-inference.jpg", alt="Image 2" width="44.4%">
+  <img src="illustration/exemple-onnx-inference.png", alt="Image 2" width="44.4%">
 </p>
 
 ## Requirements
