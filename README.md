@@ -3,7 +3,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/PierreMarieCurie/rf-detr-onnx/blob/main/rf-detr-base.onnx)
 
 
-This repository contains code to load an ONNX model—converted from RF-DETR—and perform inference, including drawing the results on images. It demonstrates how to convert a PyTorch model to ONNX format and run real-time inference with minimal dependencies.
+This repository contains code to load an ONNX version of RF-DETR and perform inference, including drawing the results on images. It demonstrates how to convert a PyTorch model to ONNX format and run real-time inference with minimal dependencies.
 
 RF-DETR is a transformer-based object detection architecture developed by Roboflow. For more details on the model, please refer to the impressive work by the Roboflow team [here](https://github.com/roboflow/rf-detr/tree/main).
 
