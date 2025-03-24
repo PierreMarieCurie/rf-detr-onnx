@@ -2,16 +2,22 @@ This project is licensed under the MIT License.
 
 However, some parts of the code are derived from third-party software licensed under the Apache License 2.0 and the BSD 3-Clause License. Below are the details:
 
+___
 
-
-
- under the Apache License 2.0. Please see  http://www.apache.org/licenses/LICENSE-2.0 for more details. Below are the parts under this license:
+Certain files in this repository are subject to the Apache License 2.0. These files are:
 
 - RF-DETR class in rf_detr.py (Copyright 2025 Roboflow)
 - RF-DETR pretrained weights (Copyright 2025 Roboflow)
 
+Certain files in this repository are subject to the BSD 3-Clause License. These files are:
 
+- post_process in rf_detr.py (Copyright 2023 VinAIResearch : https://github.com/VinAIResearch/Counting-DETR/blob/master/src/CountDETR_147_1st_stage/models/anchor_detr.py)
 
+The original copyright and license notices for these files are retained as required by their respective licenses.
+
+For more information, refer to the LICENSE file and the relevant source files containing their respective license headers.
+
+___
 
 License References:
 
