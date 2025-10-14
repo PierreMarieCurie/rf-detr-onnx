@@ -194,5 +194,5 @@ class RFDETR_ONNX:
             text_y = box[1] + 5
             draw.text((text_x, text_y), str(label), fill=box_color, font=font)
 
-        # Show or save
+        # Save
         result_rgb.save(save_image_path)
