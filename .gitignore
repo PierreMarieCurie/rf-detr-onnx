@@ -1,5 +1,10 @@
 # Models
 *.onnx
 *.pth
+*.pt
 
+# Others
 *.pyc
+*.lock
+*.ipynb
+*.sh
