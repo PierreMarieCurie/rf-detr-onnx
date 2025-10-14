@@ -9,7 +9,7 @@ RF-DETR is a transformer-based object detection and instanc segmentation archite
 
 | Roboflow | ONNX Runtime Inference<p> (Object detection) | ONNX Runtime Inference <p> (Instance segmentation) |
 |----------------------|-----------------------------|-----------------------------|
-| <p align="center"><img src="assets/official-repo.png" width="100%"></p> | <p align="center"><img src="assets/object_detection.jpg" width="74%"></p> | <p align="center"><img src="assets/instance_segmentation.jpg" width="74%"></p> |
+| <p align="center"><img src="assets/official_repo.png" width="100%"></p> | <p align="center"><img src="assets/object_detection.jpg" width="74%"></p> | <p align="center"><img src="assets/instance_segmentation.jpg" width="74%"></p> |
 
 ## Installation
 
