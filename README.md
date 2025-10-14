@@ -54,10 +54,10 @@ Roboflow provides pre-trained RF-DETR models on the [COCO](https://cocodataset.o
 
 Note that this corresponds to [rf-detr version 1.3.0](https://github.com/roboflow/rf-detr/tree/1.3.0):
 - **Object detection**:
-    - [rf-detr-base](link), [rf-detr-large](link), [rf-detr-nano](link), [rf-detr-small](link) and [rf-detr-medium](link): different checkpoints trained on COCO dataset
-    - [rf-detr-base-o365](link): base checkpoint trained on Objects365 dataset
+    - [rf-detr-base](https://huggingface.co/PierreMarieCurie/rf-detr-onnx/resolve/main/rf-detr-base-coco.onnx), [rf-detr-large](https://huggingface.co/PierreMarieCurie/rf-detr-onnx/resolve/main/rf-detr-large.onnx), [rf-detr-nano](https://huggingface.co/PierreMarieCurie/rf-detr-onnx/resolve/main/rf-detr-nano.onnx), [rf-detr-small](https://huggingface.co/PierreMarieCurie/rf-detr-onnx/resolve/main/rf-detr-small.onnx) and [rf-detr-medium](https://huggingface.co/PierreMarieCurie/rf-detr-onnx/resolve/main/rf-detr-medium.onnx): different checkpoints trained on COCO dataset
+    - [rf-detr-base-o365](https://huggingface.co/PierreMarieCurie/rf-detr-onnx/resolve/main/rf-detr-base-o365.onnx): base checkpoint trained on Objects365 dataset
 - **Instance segmentation**
-    - [rf-detr-seg-preview](link):  trained on COCO dataset
+    - [rf-detr-seg-preview](https://huggingface.co/PierreMarieCurie/rf-detr-onnx/resolve/main/rf-detr-seg-preview.onnx): trained on COCO dataset
 
 ### Converting 
 
