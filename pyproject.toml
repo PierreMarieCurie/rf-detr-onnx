@@ -2,7 +2,7 @@
 name = "rf-detr-onnx"
 version = "0.1.0"
 description = "Scripts to use ONNX version of FR-DETR"
-readme = "README.md"
+readme = "README.MD"
 requires-python = ">=3.9"
 dependencies = [
     "numpy",
@@ -11,4 +11,4 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-export-tools = ["rfdetr==1.3.0", "rfdetr[onnxexport]==1.3.0"]
+export-tools = ["rfdetr==1.3.0", "onnx==1.19.0", "onnxsim==0.4.36", "torch==2.8.0"]
