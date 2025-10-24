@@ -11,4 +11,4 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-export-tools = ["rfdetr==1.3.0", "onnx==1.19.0", "onnxsim==0.4.36", "torch==2.8.0"]
+export-tools = ["rfdetr==1.3.0", "onnx==1.19.0", "onnxsim==0.4.36", "onnxscript", "torch==2.8.0"]
