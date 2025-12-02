@@ -131,4 +131,3 @@ Apache License 2.0 reference: https://www.apache.org/licenses/LICENSE-2.0
 
 ## Acknowledgements
 - Thanks to the **Roboflow** team and everyone involved in the development of RF-DETR, particularly for sharing a state-of-the-art model under a permissive free software license.
-
