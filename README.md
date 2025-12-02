@@ -46,6 +46,15 @@ pip install --upgrade .
 Make sure to install Python 3.9+ on your local or virtual environment.
 </details>
 
+## TLDR - conversion
+
+```bash
+git clone --depth 1 https://github.com/PierreMarieCurie/rf-detr-onnx.git
+cd rf-detr-onnx
+uv sync --extra export-tools
+uv run export.py --checkpoint <path to weights>
+```
+
 ## Model to ONNX format
 
 ### Downloading from Hugging-face
